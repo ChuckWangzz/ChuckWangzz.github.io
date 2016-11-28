@@ -6,7 +6,6 @@ body{
 	line-height: 25px;
 	background: url(../images/bg/bg5.png) repeat;
 }
-
 /****************nav begin**********************/
 #nav{
 	width: 76px;
@@ -50,12 +49,26 @@ body{
 #content{
 	width: 66%;
 	height: 580px;
-	background-color: green;
+	background-color: #fff;
 	float: right;
 	margin: 0 12px;
 }
-#about-me,#personal-info,#my-works,#my-blog,#contact-me{
-
+#brown-smith{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#brown-smith div{
+    width: 50%;
+}
+#brown-smith-title{
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #ccc;
+}
+#brown-smith-left p{
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #ccc;
 }
 	/****************content end********************/
 /****************profile begin*****************/

@@ -17,11 +17,14 @@ img{
 	display: block;
 	clear: both;
 }
-.style{
+.stylebg{
 	background-color: #3B5998;
 }
-.style1{
+.stylebd{
 	border-color: #4c70ba;
+}
+.stylefont{
+	color: #3B5998;
 }
 .pad{
 	padding: 0 15px;
@@ -31,4 +34,12 @@ img{
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
+}
+#content-wrapper{
+	padding: 0 10px;
+}
+.part-title{
+	height: 60px;
+	line-height: 60px;
+	border-bottom: 1px solid #ccc;
 }
