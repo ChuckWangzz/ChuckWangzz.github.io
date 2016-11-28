@@ -38,8 +38,3 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 #content-wrapper{
 	padding: 0 10px;
 }
-.part-title{
-	height: 60px;
-	line-height: 60px;
-	border-bottom: 1px solid #ccc;
-}
